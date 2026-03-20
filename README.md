@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👾
+# Hi, I'm heymanou 👾
 
 **Offensive Security | Junior Pentester | eJPT Certified**  
 MSc Cybersecurity (in progress) · Madrid, Spain
@@ -14,7 +14,7 @@ learn — from PortSwigger labs to AD attack chains in my home lab.
 Currently finishing a Master's in Cybersecurity while grinding HTB and preparing
 for my next certification.
 
-**HTB / THM:** [heymanou](https://app.hackthebox.com/profile/heymanou)
+**HTB / THM:** [[heymanou](https://app.hackthebox.com/profile/heymanou)](https://tryhackme.com/p/heymanou)
 
 ---
 
@@ -57,6 +57,6 @@ for my next certification.
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:you@email.com)
+[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/alvarolucianez/))
 
-> *"The best way to understand a system is to try to break it."*
+> *"you can't teach passion"*
