@@ -57,6 +57,6 @@ for my next certification.
 
 ## Contact
 
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/alvarolucianez/))
+[[LinkedIn](https://www.linkedin.com/in/alvarolucianez/)]
 
 > *"you can't teach passion"*
