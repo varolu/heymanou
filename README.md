@@ -1,92 +1,62 @@
-<div align="center">
-  <h1>🔐 Álvaro</h1>
-  <h3>💻 Red Team · 🧩 Offensive Security · 🐧 Linux</h3>
+# Hi, I'm [Your Name] 👾
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=varolu&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/varolu?label=Followers&style=flat-square&color=blue" alt="Followers"/>
-    <img src="https://img.shields.io/github/stars/varolu?label=Stars&style=flat-square&color=blue" alt="Stars"/>
-  </p>
-</div>
+**Offensive Security | Junior Pentester | eJPT Certified**  
+MSc Cybersecurity (in progress) · Madrid, Spain
 
-<hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#1e90ff,#0e1b2e00);margin:16px 0;"/>
+---
 
-### 🧠 About Me
+## About me
 
-Junior Red Team practitioner focused on offensive security, automation, and scripting.  
-I work with Python, Bash, CMD, PowerShell, PHP, and HTML to develop custom tooling and reproducible attack environments.  
-Experienced in reconnaissance, exploitation, credential attacks, and adversary-style operations.
+I'm a junior pentester with a focus on web exploitation, Active Directory attacks,
+and OSINT. I build tools to automate my recon workflow and document everything I
+learn — from PortSwigger labs to AD attack chains in my home lab.
 
-I built a Raspberry Pi–based multi-factor authentication (2FA) system using Docker, exploring secure authentication flows and hardware-based identity models.
+Currently finishing a Master's in Cybersecurity while grinding HTB and preparing
+for my next certification.
 
-<hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#1e90ff,#0e1b2e00);margin:16px 0;"/>
+**HTB / THM:** [heymanou](https://app.hackthebox.com/profile/heymanou)
 
-### 🛠️ Tools & Technologies
+---
 
-<div align="center">
+## What I'm working on
 
-  <h4>⚙️ Core Technologies</h4>
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,php,html,linux,docker,github,git,vscode,kali" />
+- 🔴 Active Directory lab — building and attacking my own domain
+- 🕷️ Web exploitation — working through PortSwigger's Advanced topics
+- 🔍 OSINT automation framework — Python-based modular recon toolkit
+- 📝 CTF writeups — documenting methodology, not just solutions
 
-  <br/><br/>
+---
 
-  <h4>🧰 Offensive Security & Tools</h4>
-  <img src="https://img.shields.io/badge/Nmap-003366?style=flat-square" />
-  <img src="https://img.shields.io/badge/Metasploit-2e2e2e?style=flat-square" />
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-5c5c5c?style=flat-square" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1f8acb?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bettercap-dd1f26?style=flat-square" />
-  <img src="https://img.shields.io/badge/Evil--WinRM-4b4b4b?style=flat-square" />
+## Technical skills
 
-</div>
+**Languages:** Python · Bash · PHP  
+**Platforms:** Linux (primary) · Windows · Active Directory  
+**Tools:** Burp Suite · Nmap · Metasploit · Hashcat · enum4linux-ng · BloodHound  
+**Concepts:** Web vulns (SQLi, XSS, SSRF, XXE) · Kerberoasting · Pass-the-Hash · OSINT · Social Engineering
 
-<hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#1e90ff,#0e1b2e00);margin:16px 0;"/>
+---
 
-### 🚀 Highlight Project
+## Featured projects
 
-- 🔐 **Raspberry Pi 2FA System**  
-  Multi-factor authentication project integrating Docker and hardware-backed identity workflows.  
-  Designed for modular deployment, secure access control, and experimentation with custom auth mechanisms.
+| Project | What it does |
+|---|---|
+| [recon-toolkit](./recon-toolkit) | Modular Bash CLI for recon automation — Nmap profiles, fuzzing, SMB enum |
+| [2fa-security-lab](./2fa-security-lab) | Raspberry Pi + RFID 2FA system — built, then attacked my own design |
+| [ad-attack-lab](./ad-attack-lab) | Active Directory attack playbook with home lab setup and diagrams |
+| [osint-framework](./osint-framework) | Python CLI for person, domain, and email OSINT — modular and chainable |
+| [ctf-writeups](./ctf-writeups) | HTB and THM writeups focused on methodology |
 
-<hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#1e90ff,#0e1b2e00);margin:16px 0;"/>
+---
 
-### 📈 GitHub Activity
+## Certifications & education
 
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=varolu&theme=tokyo-night&hide_border=true&area=true&custom_title=Activity%20Graph"
-  />
-</div>
+- **eJPT** — eLearnSecurity Junior Penetration Tester
+- **MSc Cybersecurity** — [University Name] (expected [year])
 
-### 📊 GitHub Stats
+---
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=varolu&show_icons=true&theme=tokyonight&hide_border=true&locale=en&rank_icon=github"
-  />
-  <br/><br/>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=varolu&layout=compact&theme=tokyonight&hide_border=true&locale=en"
-  />
-</div>
+## Contact
 
-<hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#1e90ff,#0e1b2e00);margin:16px 0;"/>
+[LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:you@email.com)
 
-### 🌐 Contact
-
-<div align="center">
-  <a href="https://github.com/varolu" title="GitHub">
-    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="36" height="36"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/alvarolucianezllorente" title="LinkedIn">
-    <img src="https://img.icons8.com/ios-filled/48/ffffff/linkedin.png" width="36" height="36"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://tryhackme.com/p/heymanou" title="TryHackMe">
-    <img src="https://img.icons8.com/fluency-systems-filled/48/ffffff/hacker.png" width="36" height="36"/>
-  </a>
-</div>
-
-<br/>
+> *"The best way to understand a system is to try to break it."*
